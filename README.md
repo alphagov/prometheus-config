@@ -1,5 +1,6 @@
-# terrible-testing-repo
+# prometheus-config
 
-DO NOT USED - TEMP TESTING REPO FOR PULLING FILES FROM
+Configuration for our ECS task definitions to run Prometheus
 
-A very short term testing repo that should be nuked ASAP
+## License
+[MIT License](LICENCE)
